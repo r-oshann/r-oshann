@@ -3,7 +3,7 @@
 🧠 Computer Science student at IEC College OF engineering and technology.<br/>
 🧑‍💻 I create website designs and software.<br/>
 🔭 I know C++, Web-Dev, Python.<br/>
-🌱 I'm currently learning Jawa.<br/>
+🌱 I'm currently learning Kotlin.<br/>
 
 
 # 💻 Tech Stack:
