@@ -1,9 +1,9 @@
-#Hi, I'm Roshan Sharma. ✨
+hii, I'm Roshan Sharma. ✨
 
-🧠 Computer Science student at IEC College OF engineering and technology.<br/>
-🧑‍💻 I create website designs and software.<br/>
-🔭 I know C++, Web-Dev, Python.<br/>
-🌱 I'm currently learning Kotlin.<br/>
+Computer Science student at IEC College OF engineering and technology.<br/>
+I create website designs and software.<br/>
+I know C++, Web-Dev, Python.<br/>
+I'm currently learning Dart(Flutter).<br/>
 
 
 # 💻 Tech Stack:
